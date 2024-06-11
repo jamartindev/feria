@@ -48,7 +48,7 @@ a {
 /* Estilos nav */
 
 header {
-  background-image: url(images/header.jpg);
+  background-image: url(../images/header.jpg);
   background-size: cover;
   height: 100vh;
   box-shadow: 0 0 8px 8px var(--rojo) inset;
@@ -155,7 +155,7 @@ nav ul {
 /* Estilos Festival info */
 
 #festival {
-  background-image: url(images/wall.jpg);
+  background-image: url(../images/wall.jpg);
   background-size: cover;
   background-color: var(--bgBlend);
   background-blend-mode: lighten;
@@ -171,7 +171,7 @@ nav ul {
   font-size: 4rem;
   font-style: italic;
   color: var(--rojo);
-  background-image: url(images/madera.jpg);
+  background-image: url(../images/madera.jpg);
   border-radius: 50px;
   box-shadow: 0 4px 20px black;
   text-shadow: -2px 2px 2px rgba(2, 2, 2, 0.747),
@@ -192,7 +192,7 @@ nav ul {
   border: 1px solid transparent;
   border-radius: 5px;
   box-shadow: 0 16px 40px black;
-  background-image: url(images/madera.jpg);
+  background-image: url(../images/madera.jpg);
 }
 
 .generalInfo figure {
@@ -295,7 +295,7 @@ nav ul {
 /* Estilos Tabla Entradas */
 
 #entradas {
-  background-image: url(images/fairs-in-medieval-times.jpg);
+  background-image: url(../images/fairs-in-medieval-times.jpg);
   background-size: cover;
   background-position: 10% 50%;
   background-color: var(--bgBlend);
@@ -391,7 +391,7 @@ nav ul {
   border-image-width: 80px;
   border-image-outset: 35px;
   border-image-repeat: round round;
-  border-image-source: url("images/border.png");
+  border-image-source: url("../images/border.png");
   border-style: solid;
 }
 
@@ -470,7 +470,7 @@ nav ul {
 /* Estilos Form */
 
 #suscribete {
-  background-image: url(images/SuscribeteBC.jpg);
+  background-image: url(../images/SuscribeteBC.jpg);
   background-position: 10% 20%;
   background-color: var(--bgBlend);
   background-blend-mode: lighten;
